@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sebert.benoit@gmail.com
+	name = benoit sebert
